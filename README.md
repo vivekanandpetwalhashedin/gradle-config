@@ -1,1 +1,1 @@
-Change the "_templates_repo" in cookiecutter based on your system
+Change the "_templates_repo" in cookiecutter.json based on your system
