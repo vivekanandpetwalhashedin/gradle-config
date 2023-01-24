@@ -1,0 +1,11 @@
+{
+    "project_name": "My Project",
+    "project_slug": "{{ cookiecutter.project_name.replace('_', ' ').title().replace(' ', '') }}",
+    "runtime": ["java11", "java8.al2", "java8"],
+    "dependency_manager": ["Maven", "Gradle"],
+    "projectdir_name": "myDir",
+    "resource_name": "My Resource",
+    "group": "com.hashedin",
+    "spring_boot_version": "3.0.2",
+    "_templates_repo": "/Users/vpetwal/CookieCutter/hidcookiecutter"
+}

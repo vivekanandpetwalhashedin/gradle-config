@@ -1,0 +1,7 @@
+{
+  "project_name": "My Project",
+  "project_slug": "{{ cookiecutter.project_name.replace('_', ' ').title().replace(' ', '') }}",
+  "_version":8,
+  "spring_boot_version": "{{cookiecutter.spring_boot_version}}",
+  "group": "com.hashedin"
+}
